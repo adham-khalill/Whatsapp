@@ -5,11 +5,8 @@ This Flutter project is a basic implementation of a **WhatsApp-style chat interf
 ### Screenshots 📸
 Below are some screenshots of the current interface:
 
-- **Chat Screen:** This shows a basic chat conversation with messages aligned properly for incoming and outgoing messages. (Image you shared)
-  ![Chat Screen](file-I7bdbZOtlotJHQgMYpnnTcP6)
-
-- **Project Folder Structure:** The file structure includes necessary image assets and the core files for the chat screen.
-  ![Project Structure](file-5NtUuOwDCxEwsQANqeGlm5NC)
+- **Chat Screen:** This shows a basic chat conversation with messages aligned properly for incoming and outgoing messages.
+- ![image](https://github.com/user-attachments/assets/6d9c358f-0d0f-4816-a483-b71c165aa232)
 
 ### Features
 - **Background Image**: The chat background uses a custom image (`BG.png`), providing a familiar feel like WhatsApp.
